@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! Eu sou o GabrielSS04 👋
 
-<!--
-**GabrielSS04/GabrielSS04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+Sou um programador apaixonado por tecnologia e desenvolvimento de software. Adoro aprender novas linguagens e estou sempre em busca de novos desafios para melhorar minhas habilidades.
 
-Here are some ideas to get you started:
+### Minhas principais habilidades:
+- **Linguagens:** Python, JavaScript, Java, C++
+- **Ferramentas e Tecnologias:** Git, Docker, Node.js, React
+- **Áreas de interesse:** Desenvolvimento Web, Inteligência Artificial, Automação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vamos conectar!
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabrielss04/))
+- Email: Gssouzasoftware@gmail.com
+
+Obrigado por visitar meu perfil! 🚀
