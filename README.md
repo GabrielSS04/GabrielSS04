@@ -9,7 +9,7 @@ Sou um programador apaixonado por tecnologia e desenvolvimento de software. Ador
 - **Áreas de interesse:** Desenvolvimento Web, Inteligência Artificial, Automação
 
 ### Vamos conectar!
-- [LinkedIn]((https://www.linkedin.com/in/gabrielss04/))
+- [LinkedIn](https://www.linkedin.com/in/gabrielss04/)
 - Email: Gssouzasoftware@gmail.com
 
 Obrigado por visitar meu perfil! 🚀
