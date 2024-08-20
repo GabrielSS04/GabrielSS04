@@ -4,7 +4,7 @@
 
 My name is Gabriel, I'm 19 years old, I'm a Software Engineering student and I'm in the 6th period of the course at Fag University in Cascavel - PR. I like learning new things and I am very dedicated to my studies, I enjoy developing projects and solving everyday problems
 
-## Skills
+## Skills :computer:
 
 These are some of my skills that I acquired in my career
 
