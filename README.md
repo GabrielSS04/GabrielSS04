@@ -23,6 +23,6 @@ These are some of my skills that I acquired in my career
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 
-## Sumary Projects
+## Sumary Projects :bar_chart:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSS04&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
