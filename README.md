@@ -6,6 +6,8 @@ My name is Gabriel, I'm 19 years old, I'm a Software Engineering student and I'm
 
 ## Skills
 
+These are some of my skills that I acquired in my career
+
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
