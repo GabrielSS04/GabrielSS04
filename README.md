@@ -8,6 +8,10 @@ I'm Gabriel, a 19-year-old Software Engineering student in my 6th semester at Fa
 
 These are some of my skills that I acquired in my career
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,nodejs,figma,react)
+
+
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
