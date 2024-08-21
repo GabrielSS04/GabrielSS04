@@ -25,6 +25,6 @@ These are some of my skills that I acquired in my career
 
 ## GitHub Stats :bar_chart:
 
- <img width="10%" src="https://github-readme-stats.vercel.app/api?username=GabrielSS04&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=tokyonight">
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GabrielSS04&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=tokyonight">
 
 
