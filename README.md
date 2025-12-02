@@ -2,7 +2,7 @@
 
 ## Abount me!
 
-I'm Gabriel, a 19-year-old Software Engineering student in my 6th semester at Fag University in Cascavel, PR. I'm really into technology and always excited to learn something new. I'm super dedicated to my studies and love working on projects that solve everyday problems. Whether it’s coding an app or exploring the latest tech trends, I’m all about finding creative ways to apply what I’ve learned and make things better.
+I'm Gabriel, a 21-year-old Software Engineering student in my 6th semester at Fag University in Cascavel, PR. I'm really into technology and always excited to learn something new. I'm super dedicated to my studies and love working on projects that solve everyday problems. Whether it’s coding an app or exploring the latest tech trends, I’m all about finding creative ways to apply what I’ve learned and make things better.
 
 ## Skills :computer:
 
